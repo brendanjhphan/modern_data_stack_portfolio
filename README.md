@@ -12,3 +12,10 @@ Medallion architecture (bronze/silver/gold) built on the Northwind
 - PostgreSQl
 - pgAdmin
 - SQL
+
+**Architecture:**
+- **Bronze** - Raw ingestion from source tables with metadata tracking
+- **Silver** - Cleaned and standardized data with renamed columns, 
+  corrected data types, and derived columns
+- **Gold** - Business ready star schema with fact tables, 
+  dimensions, and aggregations
