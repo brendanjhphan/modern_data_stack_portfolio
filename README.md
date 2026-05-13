@@ -6,7 +6,7 @@ Engineering portfolio: SQL, medallion architecture, dbt, data modeling, CI/CD
 - Clean and standardize data in a silver layer
 - Build business ready analytical models in a gold layer
 
-  **Tools Used**
-  -PostgreSQl
-  -pgAdmin
-  -SQL
+**Tools Used**
+ -PostgreSQl
+ -pgAdmin
+ -SQL
