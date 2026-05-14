@@ -2,6 +2,21 @@
 
 **Projects**
 
+**Brewery Project**
+Medallion architecture (bronze/silver/gold) built using data from the Open Brewery DB API
+- Demonstrate API-based data ingestion using Python
+- Load raw brewery data into a bronze layer
+- Clean and standardize brewery records in a silver layer using dbt
+- Build business-ready analytical models and reporting tables in a gold layer
+
+**Tools Used**
+- Python
+- Visual Studio Code
+- dbt
+- PostgreSQL
+- pgAdmin
+- SQL
+- 
 **Northwind**
 Medallion architecture (bronze/silver/gold) built on the Northwind 
 - Demonstrate raw data ingestion into a bronze layer
