@@ -16,7 +16,7 @@ Medallion architecture (bronze/silver/gold) built using data from the Open Brewe
 - PostgreSQL
 - pgAdmin
 - SQL
-- 
+
 **Northwind**
 Medallion architecture (bronze/silver/gold) built on the Northwind 
 - Demonstrate raw data ingestion into a bronze layer
